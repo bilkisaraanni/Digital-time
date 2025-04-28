@@ -1,13 +1,17 @@
-// let targetDate = new Date("April 26 2025 00:00:00").getTime()
+// let targetDate = new Date("April 27 2025 00:00:00").getTime()
 
 // function timer(){
 //     let today = new Date().getTime()
 //     let distance = targetDate - todayDate;
 //     let days = Math.floor(distance/1000/60/60/24);
 //     let hours = Math.floor(distance/1000/60/60)%24;
-//     let minits = Math.floor(distance/1000/60)%60;
-//     let secends = Math.floor(distance/1000)%60;
+//     let minites = Math.floor(distance/1000/60)%60;
+//     let seconds = Math.floor(distance/1000)%60;
+
+//     console.log('${days}:${hours}:${minites}:${seconds}:');
 // }
+// timer();
+// setInterval(timer,1000)
 
 // let hrs = document.getElementById("hrs");
 // let min = document.getElementById("min");
